@@ -9,8 +9,8 @@ words_per_minute: 150
 baseurl: /
 
 # Website info
-title: JimToTheBrim Personal Blog
-description: Welcome to my blog
+title: JimToTheBrim
+description: False
 cover: False #assets/images/blog-cover.jpg
 logo: False #assets/images/blog-icon.png
 logo_dark: False #assets/images/favicon.png
