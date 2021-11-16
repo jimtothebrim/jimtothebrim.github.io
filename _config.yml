@@ -22,7 +22,7 @@ navigation: False # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-instagram: jimtothebrim # replace by your username
+instagram: jimtothebrim_official # replace by your username
 twitter: jimtothebrim # replace by your username
 github: jimtothebrim # replace by your username
 youtube: jimtothebrim # replace by your username
