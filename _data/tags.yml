@@ -1,3 +1,11 @@
+cybersecurity:
+  name: Cyber Security
+  description: A series of short stories that make you think.
+  cover: assets/images/fables.jpg
+programming:
+  name: Programming
+  description: False
+  cover: False
 devops:
   name: DevOps
   description: Some of the greatest words ever spoken.
@@ -6,11 +14,11 @@ devsecops:
   name: DevSecOps
   description: False
   cover: False
-cybersecurity:
-  name: Cyber Security
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-reviews:
-  name: Reviews
+game-reviews:
+  name: Game Reviews
+  description: False
+  cover: False
+game-development:
+  name: Game Development
   description: False
   cover: False
