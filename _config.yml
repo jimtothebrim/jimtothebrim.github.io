@@ -9,8 +9,8 @@ words_per_minute: 150
 baseurl: /
 
 # Website info
-title: Jim to the Brim
-description: False
+title: 'Jim to the Brim'
+description: ''
 cover: False #assets/images/blog-cover.jpg
 logo: False #assets/images/blog-icon.png
 logo_dark: False #assets/images/favicon.png
