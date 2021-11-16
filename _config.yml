@@ -24,8 +24,10 @@ subscribers: False # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 instagram: jimtothebrim # replace by your username
 twitter: jimtothebrim # replace by your username
-facebook: jimtothebrim # replace by your username
+github: jimtothebrim # replace by your username
 youtube: jimtothebrim # replace by your username
+twitch: jimtothebrim # replace by your username
+facebook: jimtothebrim # replace by your username
 
 # Disqus
 disqus: False
