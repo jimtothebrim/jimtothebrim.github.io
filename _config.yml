@@ -6,11 +6,11 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: JimToTheBrim Personal Blog
+description: This is my personal blog
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -67,13 +67,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyllt
-repo: jasper2
-branch: master
+username: jimtothebrim
+repo: jimtothebrim.github.io
+branch: gh-pages
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://jekyllt.github.io/jasper2/
-source_url:  https://github.com/jekyllt/jasper2/
+production_url:  https://jimtothebrim.github.io/
+source_url:  https://github.com/jimtothebrim/jimtothebrim.github.io/
 
 exclude:
   - assets/css
