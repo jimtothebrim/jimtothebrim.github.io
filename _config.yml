@@ -34,7 +34,7 @@ disqus: False
 disqus_shortname: jimtothebrim # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: G-XBBPQ4W8FT # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
