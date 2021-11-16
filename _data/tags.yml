@@ -22,3 +22,7 @@ game-development:
   name: Game Development
   description: False
   cover: False
+general:
+  name: General
+  description: False
+  cover: False
