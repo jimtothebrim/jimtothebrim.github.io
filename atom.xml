@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description></description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Welcome to my blog</title>
+        
+          <description>&lt;p&gt;Hello everyone! Welcome to my first blog, and I am thrilled to have you with me :)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 16 Nov 2021 21:00:00 +0000</pubDate>
+        <link>
+        /welcome</link>
+        <guid isPermaLink="true">/welcome</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

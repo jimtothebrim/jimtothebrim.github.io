@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/general/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2021-11-17T07:45:52+00:00</updated>
+  <id>/tag/general/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Jim to the Brim | </title>
+  
+
+  
+    <subtitle></subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Welcome to my blog</title>
+      <link href="/welcome" rel="alternate" type="text/html" title="Welcome to my blog" />
+      <published>2021-11-16T21:00:00+00:00</published>
+      <updated>2021-11-16T21:00:00+00:00</updated>
+      <id>/welcome</id>
+      <content type="html" xml:base="/welcome">&lt;p&gt;Hello everyone! Welcome to my first blog, and I am thrilled to have you with me :)&lt;/p&gt;
+
+&lt;h3 id=&quot;there-are-a-few-things-that-you-should-know-about-this-blog&quot;&gt;There are a few things that you should know about this blog:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;The current blog is divided into six categories, namely &lt;a href=&quot;cybersecurity&quot;&gt;CyberSecurity&lt;/a&gt;, &lt;a href=&quot;programming&quot;&gt;Programming&lt;/a&gt;, &lt;a href=&quot;devops&quot;&gt;DevOps&lt;/a&gt;, &lt;a href=&quot;devsecops&quot;&gt;DevSecOps&lt;/a&gt;, &lt;a href=&quot;game-development&quot;&gt;Game Development&lt;/a&gt;, and &lt;a href=&quot;game-reviews&quot;&gt;Game Revies&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;The blog posts will contain information about my progress on what I am learning,  my projects, and maybe my opinion on the same topics.&lt;/li&gt;
+  &lt;li&gt;The blog posts will be both theoretical and technical.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Without saying anything else, let’s dive into blogging.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Jim to the Brim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="General" />
+      
+
+      
+        <summary type="html">Hello everyone! Welcome to my first blog, and I am thrilled to have you with me :)</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
