@@ -36,8 +36,23 @@ logo: 'assets/images/ghost.png'
                     {% if author[1].url %}
                         <a class="social-link social-link-wb" href="{{ author[1].url_full }}" target="_blank" rel="noopener">{% include website.html %}</a>
                     {% endif %}
+                    {% if author[1].instagram %}
+                        <a class="social-link social-link-ig" href="https://instagram.com/{{ author[1].instagram }}" target="_blank" rel="noopener">{% include instagram.html %}</a>
+                    {% endif %}
+                    {% if author[1].tiktok %}
+                        <a class="social-link social-link-tt" href="https://tiktok.com/{{ author[1].tiktok }}" target="_blank" rel="noopener">{% include tiktok.html %}</a>
+                    {% endif %}
                     {% if author[1].twitter %}
                         <a class="social-link social-link-tw" href="https://twitter.com/{{ author[1].twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+                    {% endif %}
+                    {% if author[1].youtube %}
+                        <a class="social-link social-link-yt" href="https://youtube.com/{{ author[1].youtube }}" target="_blank" rel="noopener">{% include youtube.html %}</a>
+                    {% endif %}
+                    {% if author[1].twitch %}
+                        <a class="social-link social-link-twitch" href="https://twitch.com/{{ author[1].twitch }}" target="_blank" rel="noopener">{% include twitch.html %}</a>
+                    {% endif %}
+                    {% if author[1].github %}
+                        <a class="social-link social-link-gh" href="https://github.com/{{ author[1].github }}" target="_blank" rel="noopener">{% include github.html %}</a>
                     {% endif %}
                     {% if author[1].facebook %}
                         <a class="social-link social-link-fb" href="https://facebook.com/{{ author[1].facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>

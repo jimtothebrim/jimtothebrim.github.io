@@ -1,10 +1,11 @@
 jimtothebrim:
   username: jimtothebrim
-  name: JimToTheBrim
+  name: Jim to the Brim
   url_full: https://jimtothebrim.github.io/
   url: jimtothebrim.github.io
-  bio: JimToTheBrim is a Technology and Game Enthusiast.
+  bio: Jim to the Brim is a CyberSecurity, Code, and Game Enthusiast.
   picture: assets/images/ghost.png
-  facebook: jimtothebrim
+  instagram: jimtothebrim_official
   twitter: jimtothebrim
+  github: jimtothebrim
   cover: False
